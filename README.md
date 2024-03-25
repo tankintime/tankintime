@@ -1,5 +1,7 @@
 
-# Hi
+# Somewhat original ideas, but they suck
+
+Yeah that's about it
 
 
 <!---
