@@ -1,10 +1,25 @@
+# Some stuff about me I guess
 
-# Somewhat original ideas, but they suck
+## Languages I know/am learning
 
-Yeah that's about it
+- I know some Python
+
+- Learning Java
+
+- Trying to figure out [Markov Junior](https://github.com/mxgmn/MarkovJunior) by Maxim Gumin in my free time
 
 
-<!---
-tankintime/tankintime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I do
+
+### What I am doing usually
+
+- I make silly little programs in Java that do mundane things but I enjoy it.
+
+### Checklist of future plans
+
+- [ ] Fully understand Markov Junior (I'm probably going to keep bringing this up)
+- [ ] Figure out what to do with my life
+
+## Things I've made that I really like
+
+Nothing that I am proud enough of to upload yet.
