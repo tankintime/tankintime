@@ -4,12 +4,17 @@
 
 - I know some Python
 
-- Learning Java
+- I know a good bit of Java
+
+- Learning C++ w/SFML
 
 - Trying to figure out [Markov Junior](https://github.com/mxgmn/MarkovJunior) by Maxim Gumin in my free time
 
 
-## What I do
+## What I am doing
+
+- Trying to make a "flex mode" (?) widget for my Galaxy Z Flip
+- Unsure
 
 ### What I am doing usually
 
@@ -22,4 +27,4 @@
 
 ## Things I've made that I really like
 
-Nothing that I am proud enough of to upload yet.
+Nothing that I am proud enough of to upload yet. (Maybe Soon)
